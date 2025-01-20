@@ -1,6 +1,6 @@
 // Add your OpenAI Key & Org here
-var openAIKey = 'SK-KEY';
-var openAIOrg = 'KEY2';
+var openAIKey = 'SK-';
+var openAIOrg = 'ORG-';
 
 // Modify system & prompt message to meet your email filtering needs
 // Here I specifically did it to filter out sales outreach emails
